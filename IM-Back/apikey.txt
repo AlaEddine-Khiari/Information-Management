@@ -1,3 +1,1 @@
-AIzaSyCkhlYbNXzv70-UusIUXg31DMGmHXvOzcQ
-
-sheet id : 1_kUS8ezv0MDaOUzXI8h8MfEdCCCvtUJ1C87jT4G3a7I
+Here u can put ur api Key and Sheet Id
